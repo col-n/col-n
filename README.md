@@ -1,4 +1,4 @@
 # col-n
-mostly python data stuff /n
+Mostly python data stuff.
 
-So far I have an analysis of LendingClub portfolios, as an iPython Notebook, which you can check out.  I'll be adding more stuff soon.
+So far I have an analysis of LendingClub portfolios that you can check out (ipython notebook).  I'll be adding more stuff soon.
