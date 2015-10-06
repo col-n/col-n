@@ -1,5 +1,5 @@
 # col-n
-Mostly python data stuff.
+Mostly python data stuff. R and crypto stuff coming soon.
 
 So far I have two projects.
 
