@@ -7,4 +7,4 @@ So far I have two projects.
 
 2. A geospacial analysis of zip code and price data (ipython notebook).  This notebook takes zipcodes and translates them to Latitude-Longitude using Google's API.  Then, a simple cluster analysis is performed on the lat-long data using scipy's kmeans2. Finally, this notebook creates a KML file that can be viewed in Google Earth, with some custom features to aid analysis based on the price. 
 
-I'll be adding more stuff soon, in particular some work in R and cryptography.
+I'll be adding more stuff soon.
