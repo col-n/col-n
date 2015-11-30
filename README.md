@@ -10,4 +10,3 @@ So far I have three projects.
 3. An RSA implementation in python (python file).  Creates public and private keys from random numbers of 5-32 bits. Tests for primality using the Miller-Rabin algo.  Includes a simple function to decompose the resulting 'n' back into the prime factors to demonstrate the increasing returns to bit-length of.  
 
 More to follow.
--Colin
