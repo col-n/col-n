@@ -245,7 +245,7 @@ def find_my_u(anyu):
         myu+=i[-1]
     return myu
 
-#some of the less interesting and tedious portions are left out.
+#some of the less interesting and tedious portions are left out. 
 
 #Alice
 primelist1 = getprimes(13)
@@ -326,7 +326,6 @@ else:
     print('something is wrong. it is either mallory, or your code ...')
 
 #see how long it takes your computer generate p and q and then to factor the numbers back.
-#WARNING: This can take several minutes for large (15+) bit integers!
 
 
 def getprimestime(length):
@@ -376,8 +375,7 @@ print(clist)
 print(flist)
 
 '''
-I used the algo above on bit lengths of 10-32 bits.  The results are below.
-I have a my computer is ~3 GHz i7 with 16 GB ram.
+I used the algo above on bit lengths of 10-32 bits.  The results are below for a comp with ~3 GHz i7 and 16 GB ram.
 
 in seconds:
 bits	create	factor
