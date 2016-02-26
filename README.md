@@ -7,6 +7,8 @@ So far I have three projects.
 
 2. A geospacial analysis of zip code and price data (ipython notebook).  This notebook takes zipcodes and translates them to Latitude-Longitude using Google's API.  Then, a simple cluster analysis is performed on the lat-long data using scipy's kmeans2. Finally, this notebook creates a KML file that can be viewed in Google Earth, with some custom features to aid analysis based on the price. 
 
-3. An RSA implementation in python (python file).  Creates public and private keys from random numbers of 5-32 bits. Tests for primality using the Miller-Rabin algo.  Includes a simple function to decompose the resulting 'n' back into the prime factors to demonstrate the increasing returns to bit-length of.  
+3. An RSA implementation in python (python file).  Creates public and private keys from pseudo-random numbers of 5-32 bits using systemrandom, the crytpographically acceptable method. Tests for primality using the Miller-Rabin algo.  Includes a (very) simple function to decompose the resulting semi-prime 'n' back into the prime factors to demonstrate the increasing returns to bit-length of 'n' (hint: its much harder the longer they are).  
+
+4. The Matasano Crypto Challenges (series of ipython notebooks and python files).  I'm working on the challenges and posting them here when I am satified with them.
 
 More to follow.
