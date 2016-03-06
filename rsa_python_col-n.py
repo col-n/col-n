@@ -5,6 +5,8 @@ A python implementation of RSA (https://en.wikipedia.org/wiki/RSA_%28cryptosyste
 Finds random prime numbers of specified length (up to 32 bits).
 Demonstrates why larger numbers are better by factoring the resulting private key from the computed public key,
 using a very unsophisticated factoring method.
+
+Uses the built in python bitwise exclusive or operator
 '''
 
 #let's define some functions for generating random numbers of length n.
@@ -407,4 +409,12 @@ As you can see, past trivial bit lengths (at about 24 bits) each additional bit 
 factor while having basically no effect on the time to create the factor.
 
 '''
+
+
+
+
+
+
+
+#https://drive.google.com/file/d/0B5eMNCdPTsppa19TdW1VSjViU1U/view?usp=sharing
 
