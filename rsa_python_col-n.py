@@ -410,6 +410,6 @@ factor while having basically no effect on the time to create the factor.
 
 '''
 #for a great webcomic on passwords ...
-#https://xkcd.com/936/
-#https://drive.google.com/file/d/0B5eMNCdPTsppa19TdW1VSjViU1U/view?usp=sharing
+#a good password: https://xkcd.com/936/
+#https://drive.google.com/file/d/0B5eMNCdPTsppZ0o4YWNxQnE0MU0/view?usp=sharing
 
