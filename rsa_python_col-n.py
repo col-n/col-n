@@ -409,12 +409,7 @@ As you can see, past trivial bit lengths (at about 24 bits) each additional bit 
 factor while having basically no effect on the time to create the factor.
 
 '''
-
-
-
-
-
-
-
+#for a great webcomic on passwords ...
+#https://xkcd.com/936/
 #https://drive.google.com/file/d/0B5eMNCdPTsppa19TdW1VSjViU1U/view?usp=sharing
 
