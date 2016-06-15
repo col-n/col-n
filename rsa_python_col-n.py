@@ -411,5 +411,4 @@ factor while having basically no effect on the time to create the factor.
 '''
 #for a great webcomic on passwords ...
 #a good password: https://xkcd.com/936/
-#https://drive.google.com/open?id=0B5eMNCdPTsppeVcySVNRZHEzQ1k
-
+#https://drive.google.com/open?id=0B5eMNCdPTsppR1puTUEzeGg2dWs
